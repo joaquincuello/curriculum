@@ -1,0 +1,70 @@
+.sec-1{
+    width: 250px; 
+    margin-left: 20px;
+    margin-bottom: 50px;
+    background-color:#2137a3;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.bloquegenral{
+    display: flex;
+    flex-direction: row;
+    font-family: sans-serif;
+}
+.imagen{
+    color: #0d1ad2;
+    width: 200px;
+    margin-left: 20px;
+    border: 5px solid white;
+}
+.PERFIL{
+    text-align: center;
+    color: white;
+}
+.CONTACTO{
+    text-align: center;
+    color: white;
+}
+.COMPETENCIA{
+    text-align: center;
+    color: white;
+}
+.sec-derecho{
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: white;
+}
+.nombre{
+    text-align: left;
+    color: #0b239c;
+    margin-top: 80px;
+    margin-left: 10px;
+    font-size: 40px;
+}
+.carrera{
+    text-align: right;
+    color:#2137a3;
+    margin-right: 10px;
+}
+.regla{
+    background-color:#2137a3;
+    text-align: left;
+    color:white;
+    font-size: 25px;
+    margin-left: 10px;
+}
+.suma{
+    text-align: left;
+    color:#2137a3;
+    font-size: 18px;
+    margin-left: 10px;
+}
+.Resta{
+    text-align: left;
+    color:#2137a3;
+    font-size: 14px;
+    margin-left: 10px;
+}
