@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mi primer curriculum- joaquin cuello</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="bloquegenral">
+        <aside class="sec-1">
+            <div> 
+                <div class="imagen">
+                    <img src="foto.jpeg" width="200px" alt="250px">    
+            </div>
+                <div class="PERFIL">
+                    <h2> PERFIL:</h2>
+                    <p>Mi capacidad para identificar patrones, tendencias y relaciones en los datos me permite ofrecer insights valiosos que impulsan la toma de decisiones estratégicas.</p>
+                </div>
+                             <div class="CONTACTO">
+                                <H3> CONTACTO:</H3>
+                                <P>
+                                    Numero Tel: 3533-519689 <br>
+                                    joacocuello@gmail.com <br>
+                                    Agustin Tosco 105- las varillas
+                                </P>
+                             </div>  
+                            
+                               <DIv class="COMPETENCIA">
+                                <h3> COMPETENCIA:</h3>
+                                <ul> 
+                                    <LI>  Flexibilidad y Adaptabilidad</LI>
+                                    <li>  comunicación oral y escrita</li>
+                                    <li>  Orientacón al Negocio y a Resultados</li>
+                                     <li>  Capacidad Analítica y Resolución de Problemas</li><br>
+                                </ul>
+                               </DIv>   
+        </aside>
+        <section class="sec-derecho">
+            <h1 class="nombre">  JOAQUIN NICOLAS <BR>
+            CUELLO </h1>
+            <p class="carrera"> <i> ESTUDIANTE DE DESARROLLO DE <br> 
+                SOFTWARE
+            </i> </p>
+            <div>
+                <ul>
+                    <h2 class="regla"> EXPERIENCIA LABORAL</h2>
+                    <h3 class="suma"> BERRYS (2023-2024)</h3>
+                    <P class="Resta">Bartender y Mozo (atención al publico)</P>
+                    <h3 class="suma">LA CASA DE LKA CANASTITAS (2024)</h3>
+                    <P class="Resta">atención al publico - Delivery</P>
+                </ul>
+            </div>
+          
+            <div>
+                <ul>
+                    <h2 class="regla">FORMACION</h2>
+                    <h3 class="suma">INSTITUTO PARQ. GMZ (2021)</h3>
+                    <P class="Resta">Bachiller de economía y administración</P>
+
+                    <h3 class="suma">TECNICO EN DESARROLLO DE SOFTWARE (2024)</h3>
+                    <p class="Resta">Escuela superior DVS</p>
+                </ul>
+            </div>
+            <div>
+                <ul>
+                    <h2 class="regla">HERRAMIENTAS</h2>
+            
+                    <p class="Resta">
+                        REDES SOCIALE <br>
+                        WORD <br>
+                        PEDEINT-HTML-CSS 
+                    </p>
+                </ul>
+                
+            </div>
+
+           </section>
+       
+                
+     </main>
+   
+    
+</body>
+</html>
